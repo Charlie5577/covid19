@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86793861509",
+    "project_id": "covid-33c61",
+    "storage_bucket": "covid-33c61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86793861509:android:3158836debfe12de862cec",
+        "android_client_info": {
+          "package_name": "com.example.quizstar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86793861509-h41kih8361fj1o4q28g6bkp0n8cbaf21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo2V3NRv4Kg8fSwqqv0XexHHiCWIL211U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86793861509-h41kih8361fj1o4q28g6bkp0n8cbaf21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

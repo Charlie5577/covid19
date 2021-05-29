@@ -1,0 +1,69 @@
+[
+    {
+        "1": "Have you had a positive test for the virus that causes COVID-19 disease within the past 10 days?",
+        "2": "In the past 14 days, have you had contact with someone with suspected or confirmed COVID-19?",
+        "3": "In the past 14 days, have you traveled?",
+        "4": "Do you have any breathing issues?",
+        "5": "Are you taking precautionary measures like wearing a mask and using a sanitizer?",
+        "6": "Have you got fever in past 14 days?",
+        "7": "Have you got any symptom of cold such a sore throat?",
+        "8": "Have you lost the taste or smell?",
+        "9": "Do you feel very tired?",
+        "10": "Have you taken the vaccines?"
+    },
+    {
+        "1": {
+            "a": "YES",
+            "b": "NO"
+
+        },
+        "2": {
+            "a": "YES",
+            "b": "NO"
+        },
+        "3": {
+            "a": "YES",
+            "b": "NO"
+        },
+        "4": {
+            "a": "YES",
+            "b": "NO"
+        },
+        "5": {
+            "a": "YES",
+            "b": "NO"
+        },
+        "6": {
+            "a": "YES",
+            "b": "NO"
+        },
+        "7": {
+            "a": "YES",
+            "b": "NO"
+        },
+        "8": {
+            "a": "YES",
+            "b": "NO"
+        },
+        "9": {
+            "a": "YES",
+            "b": "NO"
+        },
+        "10": {
+            "a": "YES",
+            "b": "NO"
+        }
+    },
+    {
+        "1": "YES",
+        "2": "YES",
+        "3": "YES",
+        "4": "YES",
+        "5": "NO",
+        "6": "YES",
+        "7": "YES",
+        "8": "YES",
+        "9": "YES",
+        "10": "NO"
+    }
+]
